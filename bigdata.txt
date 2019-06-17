@@ -1,0 +1,89 @@
+https://github.com/ypzhenga/MrJob-K-Means
+
+
+equirements are :
+1) ENCRYPTION OF LARGE DATASET (BGV ENCRYPTION)
+2) CLUSTERING (Fuzzy C-Means (MAPPER, REDUCER,COMBINER) )
+3) DECRYPTION of RESULT
+
+EXAMPLE KMEANS CLUSTERING
+https://github.com/tdebatty/hadoop-clustering
+
+EXAMPLE ENCRYPT DECRYPT
+https://github.com/rj97/kuber
+
+https://github.com/edbullen/py-mapred
+
+https://creativedata.atlassian.net/wiki/spaces/SAP/pages/82254081
+
+
+
+Both k means and c means are related
+
+MAIN LINKS
+
+https://github.com/lucko515/clustering-python
+
+
+https://github.com/mlsmall/Shopping-Mall-Customers
+
+https://github.com/MitaliBhiwande/Clustering-Algorithms
+
+https://github.com/MihailaDumitru/K-Means_Clustering
+
+https://github.com/kennedyCzar/HIGH-DIMENSIONAL-DATA-CLUSTERING
+
+SUB LINKS
+
+https://github.com/Athena-MHMD/smpc-analyticsm
+
+
+https://git.generalassemb.ly/davidliu/David-project-one
+
+http://ethen8181.github.io/Business-Analytics/finding_groups/finding_groups.html
+
+
+Both k means and c means are related
+
+MAIN LINKS
+
+https://github.com/lucko515/clustering-python
+
+
+https://github.com/mlsmall/Shopping-Mall-Customers
+
+https://github.com/MitaliBhiwande/Clustering-Algorithms
+
+https://github.com/MihailaDumitru/K-Means_Clustering
+
+https://github.com/kennedyCzar/HIGH-DIMENSIONAL-DATA-CLUSTERING
+
+SUB LINKS
+
+https://github.com/Athena-MHMD/smpc-analyticsm
+
+
+https://git.generalassemb.ly/davidliu/David-project-one
+
+http://ethen8181.github.io/Business-Analytics/finding_groups/finding_groups.html
+
+
+PPHOPCM: Privacy-preserving High-order Possibilistic cMeans Algorithm for Big Data Clustering with Cloud Computing
+BGV ENCRYPTION 
+https://github.com/Jyun-Neng/PyFHE
+FUZZY C MEANS
+
+ https://github.com/oeg-upm/fuzzy-c-means
+
+
+
+
+
+
+
+
+
+
+
+
+

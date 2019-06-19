@@ -1,0 +1,50 @@
+Average age for customers in cluster one: 33.982142857142854
+Average age for customers in cluster one:33.982142857142854
+Average annual income (in thousends) for customers in cluster one: 43.07142857142857
+Deviation of the mean for annual income (in thousends) for customers in cluster one: 16.267690527608423
+In cluster one we have:  customers56
+Average age for customers in cluster one: 40.39473684210526
+Average age for customers in cluster one:40.39473684210526
+Average annual income (in thousends) for customers in cluster one: 87.0
+Deviation of the mean for annual income (in thousends) for customers in cluster one: 16.055823668819066
+In cluster one we have:  customers38
+Average age for customers in cluster one: 55.577777777777776
+Average age for customers in cluster one:55.577777777777776
+Average annual income (in thousends) for customers in cluster one: 54.51111111111111
+Deviation of the mean for annual income (in thousends) for customers in cluster one: 8.158491751195253
+In cluster one we have:  customers45
+Average age for customers in cluster one: 25.272727272727273
+Average age for customers in cluster one:25.272727272727273
+Average annual income (in thousends) for customers in cluster one: 25.727272727272727
+Deviation of the mean for annual income (in thousends) for customers in cluster one: 7.392759468695263
+In cluster one we have:  customers22
+Average age for customers in cluster one: 32.69230769230769
+Average age for customers in cluster one:32.69230769230769
+Average annual income (in thousends) for customers in cluster one: 86.53846153846153
+Deviation of the mean for annual income (in thousends) for customers in cluster one: 16.10199247719673
+In cluster one we have:  customers39
+Average age for customers in cluster one: 33.39622641509434
+Average age for customers in cluster one:33.39622641509434
+Average annual income (in thousends) for customers in cluster one: 58.056603773584904
+Deviation of the mean for annual income (in thousends) for customers in cluster one: 8.622951152526245
+In cluster one we have:  customers53
+Average age for customers in cluster one: 54.06
+Average age for customers in cluster one:54.06
+Average annual income (in thousends) for customers in cluster one: 40.46
+Deviation of the mean for annual income (in thousends) for customers in cluster one: 14.242485738100637
+In cluster one we have:  customers50
+Average age for customers in cluster one: 32.69230769230769
+Average age for customers in cluster one:32.69230769230769
+Average annual income (in thousends) for customers in cluster one: 86.53846153846153
+Deviation of the mean for annual income (in thousends) for customers in cluster one: 16.10199247719673
+In cluster one we have:  customers39
+Average age for customers in cluster one: 25.25
+Average age for customers in cluster one:25.25
+Average annual income (in thousends) for customers in cluster one: 25.833333333333332
+Deviation of the mean for annual income (in thousends) for customers in cluster one: 7.888106377466155
+In cluster one we have:  customers24
+Average age for customers in cluster one: 41.64705882352941
+Average age for customers in cluster one:41.64705882352941
+Average annual income (in thousends) for customers in cluster one: 88.73529411764706
+Deviation of the mean for annual income (in thousends) for customers in cluster one: 16.090385919273096
+In cluster one we have:  customers34
